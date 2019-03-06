@@ -50,6 +50,9 @@ public class Adaptadores {
         @Override
         public void play(String filename) {
             System.out.print("Using Adapter --> ");
+            //UTILIZA LA VARIABLE DEL TIPO DE LA INTERFAZ PROBLEMÁTICA
+            //CON EL MÉTODO DE LA INTERFAZ PROBLEMÁTICA DENTRO DEL MÉTODO
+            //DE LA INTERFAZ PRINCIPAL E INDICA QUE SE ESTÁ USANDO EL "ADAPTER"
             media.playFile(filename);
         }
     }
