@@ -2,7 +2,7 @@ package adaptadores;
 
 /**
  * Clase con de un elemento que NO necesita ser adaptado, Implementa el método
- * de la Interfaz del Medio Principal de reproducción
+ * de la Interfaz Principal para reproducirlo (implementa MediaPlayer)
  *
  * @author luis-
  */

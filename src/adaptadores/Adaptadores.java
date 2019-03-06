@@ -2,6 +2,11 @@ package adaptadores;
 
 public class Adaptadores {
 
+    /**
+     * Main class donde se reproducirán todos archivos, adaptándolos o no
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         //SE CREA OBJETO DE TIPO MediaPlayer SIEMPRE, ES NUESTRO MEDIO PRINCIPAL
         //OBJETO MP3 PORQUE NO NECESITA SER ADAPTADO
